@@ -891,6 +891,7 @@ body.dark-theme {
     margin-bottom: 1.25rem;
 }
 /*=============== PROJECTS ===============*/
+
 .projects {
     background-color: var(--container-color);
     transition: background-color 0.4s;
@@ -909,6 +910,9 @@ body.dark-theme {
 .projects__image {
     position: relative;
     margin-bottom: 0.75rem;
+    width: 310px;
+    max-height: 210px;
+
 }
 
 .projects__button {

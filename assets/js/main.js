@@ -219,7 +219,14 @@ const projects = [
       description: "The order app offers features like login, registration, and password recovery. Users can browse, select, and add products to their cart, remove items, and mark products as favorites. Once an order is placed, confirmation and details are sent via email.",
       imgSrc: "img/project-4.png",
       link: "https://github.com/phuyen27/DelightShop-kotlin-"  
-  }
+  },
+  {
+    title: "Book selling website",
+    subtitle: "React, Firebase, Tailwind CSS, Framer Motion",
+    description: "A modern e-commerce site for book lovers to browse and purchase books. Features include a dynamic catalog, author profiles, and a shopping cart",
+     imgSrc: "img/project-5.jpg",
+    link: "https://github.com/phuyen27/Book-selling-website-"  
+}
 ];
 
 // Hàm để tạo các bài viết dựa trên mảng dự án
