@@ -911,10 +911,13 @@ body.dark-theme {
     position: relative;
     margin-bottom: 0.75rem;
     width: 310px;
-    max-height: 210px;
-
+    height: 210px;
 }
-
+.projects__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 .projects__button {
     position: absolute;
     right: 1rem;

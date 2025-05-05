@@ -226,7 +226,21 @@ const projects = [
     description: "A modern e-commerce site for book lovers to browse and purchase books. Features include a dynamic catalog, author profiles, and a shopping cart",
      imgSrc: "img/project-5.jpg",
     link: "https://github.com/phuyen27/Book-selling-website-"  
-}
+  }, 
+  {
+    title: "Culturista Website",
+    subtitle: " HTML, CSS, JavaScript",
+    description: "The project was developed as part of the WEBDEV ADVENTURE competition.",
+     imgSrc: "img/project-6.png",
+    link: "https://github.com/phuyen27/Culturista-website"  
+  },
+  {
+    title: "Movie Site",
+    subtitle: " React, Firebase, Tailwind CSS, Framer Motion",
+    description: "A movie discovery site where users can explore movies and TV shows. Features include a searchable catalog, genre filters, and top-rated films. Firebase handles real-time data.",
+     imgSrc: "img/project-8.png",
+    link: "https://github.com/phuyen27/Movie-site"  
+  }
 ];
 
 // Hàm để tạo các bài viết dựa trên mảng dự án
